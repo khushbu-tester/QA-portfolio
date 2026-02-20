@@ -19,5 +19,4 @@ Currently learning automation testing and Jira.
 - Certificates
 
 ## Contact
-LinkedIn: (add your link)
 Email: khushbu89rajak@gmail.com
