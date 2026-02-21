@@ -1,0 +1,39 @@
+# Test Plan - OpenCart E-Commerce Application
+
+## 1. Introduction
+This document describes the test plan for OpenCart demo e-commerce web application.
+
+## 2. Scope
+### In Scope:
+- User Registration
+- Login
+- Product Search
+- Add to Cart
+- Checkout Process
+
+### Out of Scope:
+- Payment Gateway real transactions
+- Admin Panel
+
+## 3. Test Strategy
+Manual functional testing will be performed on all major modules.
+
+## 4. Test Environment
+- Browser: Chrome, Edge
+- OS: Windows 10
+- Tools: Jira, Excel, GitHub
+
+## 5. Entry Criteria
+- Application should be accessible
+- Test cases should be prepared
+
+## 6. Exit Criteria
+- All critical test cases executed
+- Major bugs reported
+
+## 7. Roles and Responsibilities
+QA Engineer: Khushbu Rajak
+
+## 8. Risks
+- Demo site instability
+- Limited real payment testing
