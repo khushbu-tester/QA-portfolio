@@ -11,6 +11,7 @@ Currently learning automation testing and Jira.
 - SDLC & STLC
 - Jira & BrowserStack (Learning)
 - Basic SQL (Learning)
+- Api with postman
 
 ## Portfolio Structure
 - Test-Cases
